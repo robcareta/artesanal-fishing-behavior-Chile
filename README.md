@@ -2,7 +2,7 @@
 
 
 
-!\[](assets/background.png)
+![background](assets/background.png)
 
 
 
