@@ -1,16 +1,12 @@
-# artesanal-fishing-behavior-Chile
-
-
-
-![background](assets/background.png)
-
-
-
 # Artisanal fishing behavior Chile
 
 
 
 Pipeline to download SERNAPESCA (Chile’s National Fisheries and Aquaculture Service; Spanish acronym) satellite positioning CSV reports for artisanal fleets, build a DuckDB database, filter the Los Lagos region, and generate heatmaps/effort proxies.
+
+
+![background](assets/background.png)
+
 
 
 
