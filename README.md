@@ -6,7 +6,7 @@
 
 
 
-\# Artisanal fishing behavior Chile
+# Artisanal fishing behavior Chile
 
 
 
@@ -14,13 +14,14 @@ Pipeline to download SERNAPESCA SERNAPESCA (Chile’s National Fisheries and Aqu
 
 
 
-\## Data source
+## Data source
 
-SERNAPESCA: Geographic positions from the satellite positioning system (vessel tracking data)
+Data are obtained from SERNAPESCA (Chile’s National Fisheries and Aquaculture Service), specifically from the
+[*Geographic positions from the satellite positioning system*](https://www.sernapesca.cl/informacion-utilidad/posiciones-geograficas-del-sistema-de-posicionamiento-satelital/) webpage.  
+The source is updated daily by SERNAPESCA. The download script is designed to be incremental: when executed, it automatically checks which files are already present locally and only downloads new reports that have not been previously retrieved.
 
 
-
-\## Repository structure
+## Repository structure
 
 \- `R/` scripts
 
@@ -28,7 +29,7 @@ SERNAPESCA: Geographic positions from the satellite positioning system (vessel t
 
 
 
-\## How to run
+## How to run
 
 1\. Open R and install packages (or use renv if added).
 
