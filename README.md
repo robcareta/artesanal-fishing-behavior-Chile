@@ -6,29 +6,23 @@
 
 
 
-\# artisanal-fishing-behavior-Chile
+\# Artisanal fishing behavior Chile
 
 
 
-Pipeline to download SERNAPESCA satellite positioning CSV reports for artisanal fleets, build a DuckDB database, filter the Los Lagos region, and generate heatmaps/effort proxies.
+Pipeline to download SERNAPESCA SERNAPESCA (Chile’s National Fisheries and Aquaculture Service; Spanish acronym) satellite positioning CSV reports for artisanal fleets, build a DuckDB database, filter the Los Lagos region, and generate heatmaps/effort proxies.
 
 
 
 \## Data source
 
-SERNAPESCA: Posiciones geográficas del sistema de posicionamiento satelital.
+SERNAPESCA: Geographic positions from the satellite positioning system (vessel tracking data)
 
 
 
 \## Repository structure
 
 \- `R/` scripts
-
-\- `data\\\_raw/` downloaded CSVs (ignored)
-
-\- `data\\\_processed/` filtered outputs (ignored)
-
-\- `outputs/` figures/animations
 
 \- `assets/` images used in this README
 
@@ -40,5 +34,5 @@ SERNAPESCA: Posiciones geográficas del sistema de posicionamiento satelital.
 
 2\. Run:
 
-   - `source("R/main.R")`
+   - `source("R/Fisheries_Webbscrapping.R")`
 
