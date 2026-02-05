@@ -20,7 +20,9 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 ## Repository structure
 
 \- `R/` scripts
-
+\- `data_raw/` downloaded CSVs (ignored)
+\- `data_processed/` filtered outputs (ignored)
+\- `outputs/` figures/animations
 \- `assets/` images used in this README
 
 
