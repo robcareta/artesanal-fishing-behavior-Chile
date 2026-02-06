@@ -38,9 +38,9 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 
 ## Outcomes 
 
-![speed_points_id_1](assets/speed_points_id_1.png)
+![speed_points_id_1](outputs/speed_points_id_1.png)
 
-![direction_arrows_id_1](assets/direction_arrows_id_1.png)
+![direction_arrows_id_1](outputs/direction_arrows_id_1.png)
 
 
 ## Interactive map
