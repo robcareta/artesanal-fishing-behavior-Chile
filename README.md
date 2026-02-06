@@ -43,10 +43,4 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 ![direction_arrows_id_1](outputs/direction_arrows_id_1.png)
 
 
-## Interactive map
-
-Open the interactive Leaflet map here: `docs/interactive_map.html`  
-(Or via GitHub Pages if enabled.)
-
-[![Interactive map preview](assets/interactive_map_preview.png)](https://YOUR_USERNAME.github.io/YOUR_REPO/interactive_map.html)
 
