@@ -36,6 +36,13 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 
    - `source("R/Fisheries_Webbscrapping.R")`
 
+## Outcomes 
+
+![speed_points_id_1](assets/speed_points_id_1.png)
+
+![direction_arrows_id_1](assets/direction_arrows_id_1.png)
+
+
 ## Interactive map
 
 Open the interactive Leaflet map here: `docs/interactive_map.html`  
