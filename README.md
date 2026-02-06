@@ -36,3 +36,8 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 
    - `source("R/Fisheries_Webbscrapping.R")`
 
+## Interactive map
+
+Open the interactive Leaflet map here: `docs/interactive_map.html`  
+(Or via GitHub Pages if enabled.)
+
