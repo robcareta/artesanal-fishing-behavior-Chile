@@ -39,7 +39,7 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 
 ![direction_arrows_id_1](outputs/direction_arrows_id_1.png) 
 ![](outputs/movement_id_1_chile.gif) 
-![](outputs/quarterly_time_spent_top30.gif)
+![](outputs/quarterly_time_spent_top30.png)
 
 
 
