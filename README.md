@@ -37,10 +37,15 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 
 ## Outcomes 
 
-![speed_points_id_1](outputs/speed_points_id_1.png)
 
-![direction_arrows_id_1](outputs/direction_arrows_id_1.png)
+<img src="outputs/speed_points_id_1.png" width="600">
 
-![](outputs/movement_id_1_chile.gif)
+<img src="outputs/direction_arrows_id_1.png" width="600">
+
+<img src="outputs/movement_id_1_chile.gif" width="500">
+
+<img src="outputs/quarterly_time_spent_top30.gif" width="700">
+
+
 
 
