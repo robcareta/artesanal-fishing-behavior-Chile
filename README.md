@@ -4,6 +4,8 @@
 
 Pipeline to download SERNAPESCA (Chile’s National Fisheries and Aquaculture Service; Spanish acronym) satellite positioning CSV reports for artisanal fleets, build a DuckDB database, filter the Los Lagos region, and generate some fishing behavior proxies.
 
+*⚠️ This pipeline is under active development and does not yet represent a final or fully stabilized version. The structure, outputs, and indicators may change as the project evolves.*
+
 ![background](assets/background.png)
 
 
@@ -36,6 +38,8 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
    - `source("R/Fisheries_Webbscrapping.R")`
 
 ## Outcomes 
+
+The following figures illustrate **some examples of the outputs that can be generated** using the downloaded and processed data, for example, including vessel movement patterns and time-use proxies.
 
 ![direction_arrows_id_1](outputs/direction_arrows_id_1.png) 
 ![](outputs/movement_id_1_chile.gif) 
