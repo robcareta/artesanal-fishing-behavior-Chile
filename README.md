@@ -41,9 +41,9 @@ The source is updated daily by SERNAPESCA. The download script is designed to be
 
 The following figures illustrate **some examples of the outputs that can be generated** using the downloaded and processed data, for example, including vessel movement patterns and time-use proxies.
 
-![direction_arrows_id_1](outputs/direction_arrows_id_1.png) 
 ![](outputs/movement_id_1_chile.gif) 
 ![](outputs/quarterly_time_spent_top30.png)
+![](outputs/los_lagos_heatmap_top30_2023.png) 
 
 
 
