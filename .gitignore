@@ -58,3 +58,4 @@ outputs/frames/
 
 # Claude Code configuration (local only)
 .claude/
+CLAUDE.md
