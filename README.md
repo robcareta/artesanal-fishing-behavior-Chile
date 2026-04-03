@@ -1,12 +1,8 @@
 # Artisanal fishing behavior Chile
 
-
-
-Pipeline to download SERNAPESCA (Chile’s National Fisheries and Aquaculture Service; Spanish acronym) satellite positioning CSV reports for artisanal fleets, build a DuckDB database, filter the Los Lagos region, and generate some fishing behavior proxies.
+Pipeline to download SERNAPESCA (Chile’s National Fisheries and Aquaculture Service; Spanish acronym) satellite positioning CSV reports for artisanal fleets, build a DuckDB database, filter the Los Lagos region, and generate fishing behavior proxies including spatial effort maps.
 
 *⚠️ This pipeline is under active development and does not yet represent a final or fully stabilized version. The structure, outputs, and indicators may change as the project evolves.*
-
-![background](assets/background.png)
 
 
 
@@ -80,11 +76,19 @@ To ensure comparability, 2019–2022 admin snapshots are restricted to vessels w
 
 > **⚠️ Note on 2026 data:** The 2026 figures are **incomplete** — SERNAPESCA publishes reports daily, so the dataset currently covers January–March 2026 only. Totals for 2026 will grow as new daily reports are downloaded.
 
-### Earlier outputs
+---
 
-![](outputs/movement_id_1_chile.gif) 
-![](outputs/quarterly_time_spent_top30.png)
-![](outputs/los_lagos_heatmap_top30_2023.png)
+## References
+
+Behivoke, F., Etienne, M.-P., Guitton, J., Randriatsara, R.M., Mahafina, J., & Léopold, M. (2021). Estimating fishing effort in small-scale fisheries using GPS tracking data and random forests. *Ecological Indicators*, 123, 107321. https://doi.org/10.1016/j.ecolind.2020.107321
+
+Gerritsen, H., & Lordan, C. (2011). Integrating vessel monitoring systems (VMS) data with daily catch data from logbooks to explore the spatial distribution of catch and effort at high resolution. *ICES Journal of Marine Science*, 68(1), 245–252. https://doi.org/10.1093/icesjms/fsq137
+
+Hintzen, N.T., Bastardie, F., Beare, D., Piet, G.J., Ulrich, C., Deporte, N., Egekvist, J., & Degel, H. (2012). VMStools: Open-source software for the processing, analysis and visualisation of fisheries logbook and VMS data. *Fisheries Research*, 115–116, 31–43. https://doi.org/10.1016/j.fishres.2011.11.007
+
+Natale, F., Gibin, M., Alessandrini, A., Vespe, M., & Paulrud, A. (2015). Mapping fishing effort through AIS data. *PLOS ONE*, 10(6), e0130746. https://doi.org/10.1371/journal.pone.0130746
+
+Peel, D., & Good, N.M. (2011). A hidden Markov model approach for determining vessel activity from vessel monitoring system data. *Canadian Journal of Fisheries and Aquatic Sciences*, 68(7), 1252–1264. https://doi.org/10.1139/f2011-055
 
 
 
