@@ -84,12 +84,6 @@ Behivoke, F., Etienne, M.-P., Guitton, J., Randriatsara, R.M., Mahafina, J., & L
 
 Gerritsen, H., & Lordan, C. (2011). Integrating vessel monitoring systems (VMS) data with daily catch data from logbooks to explore the spatial distribution of catch and effort at high resolution. *ICES Journal of Marine Science*, 68(1), 245–252. https://doi.org/10.1093/icesjms/fsq137
 
-Hintzen, N.T., Bastardie, F., Beare, D., Piet, G.J., Ulrich, C., Deporte, N., Egekvist, J., & Degel, H. (2012). VMStools: Open-source software for the processing, analysis and visualisation of fisheries logbook and VMS data. *Fisheries Research*, 115–116, 31–43. https://doi.org/10.1016/j.fishres.2011.11.007
-
-Natale, F., Gibin, M., Alessandrini, A., Vespe, M., & Paulrud, A. (2015). Mapping fishing effort through AIS data. *PLOS ONE*, 10(6), e0130746. https://doi.org/10.1371/journal.pone.0130746
-
-Peel, D., & Good, N.M. (2011). A hidden Markov model approach for determining vessel activity from vessel monitoring system data. *Canadian Journal of Fisheries and Aquatic Sciences*, 68(7), 1252–1264. https://doi.org/10.1139/f2011-055
-
 
 
 
