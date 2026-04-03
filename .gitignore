@@ -51,7 +51,10 @@ rsconnect/
 data_raw/
 data_processed/
 *.duckdb
-*.csv 
+*.csv
 
 sernapesca.duckdb
 outputs/frames/
+
+# Claude Code configuration (local only)
+.claude/
