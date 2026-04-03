@@ -78,6 +78,24 @@ To ensure comparability, 2019–2022 admin snapshots are restricted to vessels w
 
 ---
 
+### Species catch maps
+
+Spatial distribution of landings by species, derived from SERNAPESCA's production reports (*Anuario Estadístico de Pesca y Acuicultura*). These reports record every landing event in Chile, including the vessel name, species, tonnage, and port of disembarkation. All sheets from 2019 to 2025 were compiled, filtered to the Los Lagos region (Region X), and linked to the VMS tracking data by matching vessel names.
+
+The spatial location of each landing is inferred by linking each vessel's landing records to its mean fishing position in the VMS data (pings classified as fishing: 0.1–3.0 knots). A total of 193 out of 2,781 vessels in the production reports were matched to VMS-tracked artisanal vessels.
+
+**Catch by species — grid map (0.1° cells, all years combined):**
+
+![](new/outputs/species_map_loslagos.png)
+
+**Catch by species — kernel density map (all years combined):**
+
+![](new/outputs/species_map_kde_loslagos.png)
+
+The kernel density maps highlight the core fishing areas for each species. Sardina Austral and Anchoveta are concentrated in the interior sea around Puerto Montt, while Reineta and Centolla show a broader distribution across the southern channels and the open coast.
+
+---
+
 ## References
 
 Behivoke, F., Etienne, M.-P., Guitton, J., Randriatsara, R.M., Mahafina, J., & Léopold, M. (2021). Estimating fishing effort in small-scale fisheries using GPS tracking data and random forests. *Ecological Indicators*, 123, 107321. https://doi.org/10.1016/j.ecolind.2020.107321
